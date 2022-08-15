@@ -1,0 +1,2 @@
+# Businees_transaction_records_database
+Database to record business transactions
